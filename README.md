@@ -1,19 +1,24 @@
-<h1 align="center"><b>Hi , I'm Bryan Chanona </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Bryan Chanona</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-<!--
-**bchanona/bchanona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##   About Me  
+-  I’m currently working on **event-driven architectures with Go, FastAPI, and RabbitMQ**  
+-  I’m learning **AWS Cloud Architecture & network protocols**  
+-  Passionate about **backend development, distributed systems, and IoT projects**  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,java,cpp,html,css,react,angular)](https://skillicons.dev)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  **Languages:** Go, JavaScript, TypeScript, Java, C++  
+-  **Backend Frameworks:** FastAPI, Fiber, Gin  
+-  **Databases:** MySQL, MongoDB  
+-  **Tools & Platforms:** Docker, RabbitMQ, Arduino, VS Code  
+-  **Cloud & DevOps:** AWS, CI/CD  
+
+##  How to reach me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-chanona?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bryan_chanona?igsh=MXF1cnhvM3U2bnVneg==)
+

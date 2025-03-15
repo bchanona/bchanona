@@ -10,7 +10,7 @@
 -  Passionate about **backend development, distributed systems, and IoT projects**  
 
 ## 🛠 Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,java,cpp,html,css,react,angular)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,java,cpp,html,css,react,angular,aws,docker,fastapi,figma,githubactions,nodejs,postgres,postman,powershell,py)](https://skillicons.dev)  
 
 -  **Languages:** Go, JavaScript, TypeScript, Java, C++  
 -  **Backend Frameworks:** FastAPI, Fiber, Gin  

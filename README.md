@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center"><b>Hi , I'm Bryan Chanona </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 <!--
 **bchanona/bchanona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

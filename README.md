@@ -94,7 +94,7 @@ My goal is to build software that solves real-world problems through solid engin
   <img
     src="https://github.com/bchanona/bchanona/blob/main/github-metrics.svg"
     alt="GitHub Metrics"
-    width="100%"
+    width="700"
   />
 </p>
 

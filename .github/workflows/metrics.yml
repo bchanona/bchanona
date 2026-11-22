@@ -1,0 +1,49 @@
+
+name: Generate GitHub Metrics
+
+on:
+  # Generate metrics every day at 00:00 Mexico time (UTC-6)
+  schedule:
+    - cron: "0 6 * * *"
+
+  # Allow manual execution from GitHub Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: Generate profile metrics
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Authentication
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bchanona
+
+          # Output
+          filename: github-metrics.svg
+          output_action: commit
+
+          # General profile information
+          base: header, activity, community, repositories, metadata
+
+          # Programming languages
+          plugin_languages: yes
+          plugin_languages_limit: 5
+          plugin_languages_details: percentage
+
+          # Contribution calendar
+          plugin_isocalendar: yes
+
+          # GitHub achievements
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+
+          # Local timezone
+          config_timezone: America/Mexico_City

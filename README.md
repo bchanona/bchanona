@@ -88,6 +88,16 @@ My goal is to build software that solves real-world problems through solid engin
   </picture>
 </p>
 
+## GitHub Metrics
+
+<p align="center">
+  <img
+    src="https://github.com/bchanona/bchanona/blob/main/github-metrics.svg"
+    alt="GitHub Metrics"
+    width="100%"
+  />
+</p>
+
 ## Connect with me
 
 <p align="center">

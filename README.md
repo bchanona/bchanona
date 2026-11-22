@@ -69,7 +69,37 @@ My goal is to build software that solves real-world problems through solid engin
 -  **Tools & Platforms:** Docker, RabbitMQ, Arduino, VS Code  
 -  **Cloud & DevOps:** AWS, CI/CD  
 
-##  How to reach me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bjdev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_bjdev_?igsh=MXF1cnhvM3U2bnVneg==)
+## GitHub Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/bchanona/bchanona/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/bchanona/bchanona/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/bchanona/bchanona/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+## Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bjdev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/_bjdev_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Build. Learn. Improve. Repeat.</i>
+</p>
 
